@@ -35,7 +35,7 @@ public class Property {
         transaction.createNewFile();
         do{
             try{
-            System.out.println("-----Property Management System-----");
+            System.out.println("-----Welcome to PropertEase-----");
             startup(data);
                 System.out.println();
                 System.out.println("Press 1* if you want to create a new account\nPress 2* if you want to login to your account\nPress 0* if you want to close the program");
