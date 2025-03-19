@@ -30,7 +30,7 @@ RentEase is a **Command-Line Interface (CLI) Property Management System** develo
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/RentEase.git
+   git clone https://github.com/MohsinN05/PF-Project.git
    ```
 2. Navigate to the project directory:
    ```bash
